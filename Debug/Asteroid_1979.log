@@ -1,0 +1,51 @@
+﻿  UFO.cpp
+p:\problem sets vs\asteroid_1979\spaceobject.h(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\ufo.cpp(2): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+p:\problem sets vs\asteroid_1979\ufo.cpp(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\ufo.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  spaceObject.cpp
+p:\problem sets vs\asteroid_1979\spaceobject.h(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceobject.cpp(6): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceobject.cpp(7): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceobject.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceobject.cpp(68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  spaceAsteroid.cpp
+p:\problem sets vs\asteroid_1979\spaceobject.h(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceasteroid.cpp(282): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceasteroid.cpp(283): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceasteroid.cpp(284): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceasteroid.cpp(312): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceasteroid.cpp(316): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceasteroid.cpp(319): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceasteroid.cpp(323): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\spaceasteroid.cpp(331): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+p:\problem sets vs\asteroid_1979\spaceobject.h(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+p:\problem sets vs\asteroid_1979\spaceobject.h(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GAMESystem.cpp
+p:\problem sets vs\asteroid_1979\spaceobject.h(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\gamesystem.cpp(74): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+p:\problem sets vs\asteroid_1979\gamesystem.cpp(196): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+p:\problem sets vs\asteroid_1979\gamesystem.cpp(274): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+p:\problem sets vs\asteroid_1979\gamesystem.cpp(290): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+p:\problem sets vs\asteroid_1979\gamesystem.cpp(292): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+p:\problem sets vs\asteroid_1979\gamesystem.cpp(307): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+p:\problem sets vs\asteroid_1979\gamesystem.cpp(326): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+p:\problem sets vs\asteroid_1979\gamesystem.cpp(339): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_tls.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'P:\PROBLEM SETS VS\Asteroid_1979\Debug\glfw.pdb'; linking object as if no debug info
+  Asteroid_1979.vcxproj -> P:\PROBLEM SETS VS\Asteroid_1979\Debug\Asteroid_1979.exe
